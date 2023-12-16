@@ -1,11 +1,11 @@
 # columbia-loreal-gen-ai-text2insights  
 Project Name: L'Oréal Text2SQL Benchmarking    
 Group Members:      
-*Wenxi Zhang wz2615 (Team captain)
-*Siyuan Ding sd3586
-*Peishan Lyu pl2841
-*Sirui Feng sf3166
-*Ziwei Yang zy2533     
+* Wenxi Zhang wz2615 (Team captain)
+* Siyuan Ding sd3586
+* Peishan Lyu pl2841
+* Sirui Feng sf3166
+* Ziwei Yang zy2533     
 Emails: wz2615@ columbia.edu,  sd3586@ columbia.edu, pl2841@ columbia.edu, sf3166@ columbia.edu, zy2533@ columbia.edu    
 **L'Oréal mentors:** Vincent Wilmet and Rémi Ferreira    
 **Instructor/CA:** Prof. Sining Chen, Ju-Chin Chao    
