@@ -15,6 +15,11 @@ This Capstone Project, generously sponsored by L'Oréal, sets out to conduct a c
 
 **Directory tree**
 ```bach
+├───DAIL_SQL_with_PALm
+│       PaLM_2_col_exp.ipynb
+│       PaLM_2_col.ipynb
+│       PaLM_2_exp.ipynb
+|
 │   Data_Transformer.ipynb
 │   README.md
 │   c3zero.ipynb
