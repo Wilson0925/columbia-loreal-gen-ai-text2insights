@@ -19,4 +19,5 @@ This Capstone Project, generously sponsored by L'Oréal, sets out to conduct a c
 │   README.md
 │   c3zero.ipynb
 │   find_missing_columns.ipynb
-```bash
+
+```
