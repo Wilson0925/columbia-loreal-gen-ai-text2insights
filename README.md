@@ -19,6 +19,9 @@ This Capstone Project, generously sponsored by L'Oréal, sets out to conduct a c
 │       PaLM_2_col_exp.ipynb
 │       PaLM_2_col.ipynb
 │       PaLM_2_exp.ipynb
+├───Spider_method
+│       few_shot_wenxi.ipynb
+│       zeroshot_wenxi.ipynb
 |
 │   Data_Transformer.ipynb
 │   README.md
